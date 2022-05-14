@@ -1,4 +1,4 @@
-### Hello World, I'm Mislina 
+### Hello, I'm Mislina 
 
 <img width="300" align="right" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47l2rgecxctffmdawsytmhi9ym2hskdrbrfwoe8g89&rid=giphy.gif&ct=g"> 
 
