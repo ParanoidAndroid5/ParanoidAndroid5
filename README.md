@@ -22,7 +22,7 @@ I'm a student of Computer Engineering at Eskişehir Osmangazi University.
 
 ### How to reach me
 
-<a target="_blank" href="ParanoidAndroid5">
+<a target="_blank" href="https://www.linkedin.com/in/mislinacetiner/">
   <img align="left" alt="LinkdeIN" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
