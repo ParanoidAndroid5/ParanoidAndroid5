@@ -4,7 +4,7 @@
 
 I'm a student of Computer Engineering at Eskişehir Osmangazi University.
  
-- 🌱 I’m currently learning React
+
 
 ## Skills: 
 
