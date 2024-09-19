@@ -2,15 +2,12 @@
 
 <img width="300" align="right" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47l2rgecxctffmdawsytmhi9ym2hskdrbrfwoe8g89&rid=giphy.gif&ct=g"> 
 
-I'm a student of Computer Engineering at Eskişehir Osmangazi University.
+
  
 
 
 
 
-### Statistics about my Github account
-
-![Profile views](https://gpvc.arturio.dev/ParanoidAndroid5)
 
 
 ### How to reach me
